@@ -27,14 +27,11 @@ class Solution {
         int importance = 0;
         while (!list.isEmpty()) {
             importance += employeeHashMap.get(list.get(0)).importance;
-            for (int tmp : employeeHashMap.get(list.get(0)).subordinates) {
-                list.add(tmp);
-            }
+            list.addAll(employeeHashMap.get(list.get(0)).subordinates);
             list.remove(0);
         }
         return importance;
     }
-
 //    public int getImportanceHelper(int id) {
 //        int importance = 0;
 //        importance += employeeHashMap.get(id).importance;
