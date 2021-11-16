@@ -12,8 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal/Binary Tree Zigzag Level Order Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal/Binary Tree Zigzag Level Order Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bulls and Cows/Bulls and Cows.iml" filepath="$PROJECT_DIR$/Bulls and Cows/Bulls and Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal/Construct Binary Tree from Inorder and Postorder Traversal.iml" filepath="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal/Construct Binary Tree from Inorder and Postorder Traversal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Decode String/Decode String.iml" filepath="$PROJECT_DIR$/Decode String/Decode String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count Square Submatrices with All Ones/Count Square Submatrices with All Ones.iml" filepath="$PROJECT_DIR$/Count Square Submatrices with All Ones/Count Square Submatrices with All Ones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decode String/Decode String.iml" filepath="$PROJECT_DIR$/Decode String/Decode String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decode Ways/Decode Ways.iml" filepath="$PROJECT_DIR$/Decode Ways/Decode Ways.iml" />
       <module fileurl="file://$PROJECT_DIR$/Delete Nodes And Return Forest/Delete Nodes And Return Forest.iml" filepath="$PROJECT_DIR$/Delete Nodes And Return Forest/Delete Nodes And Return Forest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee Importance/Employee Importance.iml" filepath="$PROJECT_DIR$/Employee Importance/Employee Importance.iml" />
@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Maximal Rectangle/Maximal Rectangle.iml" filepath="$PROJECT_DIR$/Maximal Rectangle/Maximal Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum Depth of Binary Tree/Maximum Depth of Binary Tree.iml" filepath="$PROJECT_DIR$/Maximum Depth of Binary Tree/Maximum Depth of Binary Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge Sorted Array/Merge Sorted Array.iml" filepath="$PROJECT_DIR$/Merge Sorted Array/Merge Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum Difference Between Largest and Smallest Value in Three Moves/Minimum Difference Between Largest and Smallest Value in Three Moves.iml" filepath="$PROJECT_DIR$/Minimum Difference Between Largest and Smallest Value in Three Moves/Minimum Difference Between Largest and Smallest Value in Three Moves.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minimum Value to Get Positive Step by Step Sum/Minimum Value to Get Positive Step by Step Sum.iml" filepath="$PROJECT_DIR$/Minimum Value to Get Positive Step by Step Sum/Minimum Value to Get Positive Step by Step Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Partition List/Partition List.iml" filepath="$PROJECT_DIR$/Partition List/Partition List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Peeking Iterator/Peeking Iterator.iml" filepath="$PROJECT_DIR$/Peeking Iterator/Peeking Iterator.iml" />
@@ -41,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/Same Tree/Same Tree.iml" filepath="$PROJECT_DIR$/Same Tree/Same Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scramble String/Scramble String.iml" filepath="$PROJECT_DIR$/Scramble String/Scramble String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Search in Rotated Sorted Array II/Search in Rotated Sorted Array II.iml" filepath="$PROJECT_DIR$/Search in Rotated Sorted Array II/Search in Rotated Sorted Array II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snapshot Array/Snapshot Array.iml" filepath="$PROJECT_DIR$/Snapshot Array/Snapshot Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subsets II/Subsets II.iml" filepath="$PROJECT_DIR$/Subsets II/Subsets II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Symmetric Tree/Symmetric Tree.iml" filepath="$PROJECT_DIR$/Symmetric Tree/Symmetric Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Time Based Key-Value Store/Time Based Key-Value Store.iml" filepath="$PROJECT_DIR$/Time Based Key-Value Store/Time Based Key-Value Store.iml" />
