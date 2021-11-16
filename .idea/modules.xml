@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal/Binary Tree Zigzag Level Order Traversal.iml" filepath="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal/Binary Tree Zigzag Level Order Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bulls and Cows/Bulls and Cows.iml" filepath="$PROJECT_DIR$/Bulls and Cows/Bulls and Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal/Construct Binary Tree from Inorder and Postorder Traversal.iml" filepath="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal/Construct Binary Tree from Inorder and Postorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decode String/Decode String.iml" filepath="$PROJECT_DIR$/Decode String/Decode String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decode Ways/Decode Ways.iml" filepath="$PROJECT_DIR$/Decode Ways/Decode Ways.iml" />
       <module fileurl="file://$PROJECT_DIR$/Delete Nodes And Return Forest/Delete Nodes And Return Forest.iml" filepath="$PROJECT_DIR$/Delete Nodes And Return Forest/Delete Nodes And Return Forest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee Importance/Employee Importance.iml" filepath="$PROJECT_DIR$/Employee Importance/Employee Importance.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Validate Binary Search Tree/Validate Binary Search Tree.iml" filepath="$PROJECT_DIR$/Validate Binary Search Tree/Validate Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/rgbOnRods/rgbOnRods.iml" filepath="$PROJECT_DIR$/rgbOnRods/rgbOnRods.iml" />
       <module fileurl="file://$PROJECT_DIR$/shortestPalindromeFromArray/shortestPalindromeFromArray.iml" filepath="$PROJECT_DIR$/shortestPalindromeFromArray/shortestPalindromeFromArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
